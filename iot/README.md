@@ -1,5 +1,5 @@
 ## Tema do trabalho: IoT (Internet of Things) 
-- https://smartdecisionsgame.com/
+Site do jogo: https://smartdecisionsgame.com/
 
 ### Integrantes:
 - Aline Ayumi - 202201680
